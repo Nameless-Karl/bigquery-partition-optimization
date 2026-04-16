@@ -1,4 +1,3 @@
-# bigquery-partition-optimization
 # Optimizing Query Performance Using Partitioned Tables in BigQuery
 
 ## Problem
